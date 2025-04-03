@@ -2,8 +2,8 @@
 <br/>
 <div align="center">
   <p style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=luisenriquejuanferrer&show_icons=true&locale=en" alt="luisenriquejuanferrer" height="200"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisenriquejuanferrer&show_icons=true&locale=en&layout=compact" alt="luisenriquejuanferrer" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=luisenriquejuanferrer&show_icons=true&locale=en" alt="luisenriquejuanferrer" height="200" width="auto"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisenriquejuanferrer&show_icons=true&locale=en&layout=compact" alt="luisenriquejuanferrer" height="200" width="auto"/>
   </p>
 </div>
 
