@@ -1,8 +1,33 @@
 <p align="start">Hola! Me llamo Luis Enrique y soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM). Aunque soy relativamente nuevo en el mundo de la programación, la tecnología siempre ha estado presente en mi vida. Me encanta probar nuevas tecnologías y mejorar mis conocimientos creando proyectos innovadores.</p>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisenriquejuanferrer&show_icons=true&locale=en" height="170px" width="500px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisenriquejuanferrer&show_icons=true&locale=en&layout=compact"  height="170px" width="350px" alt="Top Languages" />
+  <a href="https://github.com/luisenriquejuanferrer?tab=repositories">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=luisenriquejuanferrer&show_icons=true&theme=noctis_minimus"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=luisenriquejuanferrer&show_icons=true&theme=vue"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=luisenriquejuanferrer&show_icons=true" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/luisenriquejuanferrer?tab=repositories">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luisenriquejuanferrer&layout=compact&show_icons=true&theme=noctis_minimus"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luisenriquejuanferrer&layout=compact&show_icons=true&theme=vue"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisenriquejuanferrer&layout=compact" />
+    </picture>
+  </a>
 </div>
 
 
