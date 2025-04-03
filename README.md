@@ -1,11 +1,10 @@
 <p align="start">Hola! Me llamo Luis Enrique y soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM). Aunque soy relativamente nuevo en el mundo de la programación, la tecnología siempre ha estado presente en mi vida. Me encanta probar nuevas tecnologías y mejorar mis conocimientos creando proyectos innovadores.</p>
 <br/>
 <div align="center">
-  <p style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=luisenriquejuanferrer&show_icons=true&locale=en" alt="GitHub Stats" height="200px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisenriquejuanferrer&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200px"/>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=luisenriquejuanferrer&show_icons=true&locale=en" height="170px" width="500px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisenriquejuanferrer&show_icons=true&locale=en&layout=compact"  height="170px" width="350px" alt="Top Languages" />
 </div>
+
 
 
 
